@@ -1,0 +1,24 @@
+body
+{
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+th
+{
+    background-color: bisque;
+    padding-right: 20px;
+}
+ td
+{
+    margin: 50px;
+}
+.d1
+{
+    margin: 50px;
+}
+.btn
+{
+    padding:20px;
+    margin-left: 30%;
+}
